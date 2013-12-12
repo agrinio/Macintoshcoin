@@ -1,0 +1,4 @@
+Macintoshcoin
+=============
+
+Cryptocurrency coin
